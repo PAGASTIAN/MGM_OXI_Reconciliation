@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Exception Occured</title>
+	</head>
+	<body>
+		<br>Hello,</br>
+		<br>Please find attached the Bot Summary Report for your review. </br>
+				
+
+	<br><b>Thank You,</b><br>Machine Name : {1}<br>Robot ID : {2}</br>
+	<br>IT - Operations Center<br>702.692.9800<br>** This is a Bot generated mail. Please do not reply. **</br>
+</body>
+</html>

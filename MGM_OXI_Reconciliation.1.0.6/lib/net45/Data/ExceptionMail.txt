@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Exception Occured</title>
+	</head>
+	<body>
+		<br>Hello,</br>
+		<br>This is to inform you that there is an exception found while the Bot running. Kindly review and take appropriate action.</br>
+		<br>Exception : {0}</br>
+
+	<br><b>Thank You,</b><br>Machine Name : {1}<br>Robot ID : {2}</br>
+	<br>IT - Operations Center<br>702.692.9800<br>** This is a Bot generated mail. Please do not reply. **</br>
+</body>
+</html>

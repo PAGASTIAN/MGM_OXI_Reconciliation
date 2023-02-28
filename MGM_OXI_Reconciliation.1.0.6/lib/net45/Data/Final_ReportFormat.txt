@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Exception Occured</title>
+	</head>
+	<body>
+		<br>Hello,</br>
+		<br>Please see attached for the Oxi Reconciliation. Feel free to reach out to the IT - Operations Center 		L2 group if you have any questions.</br>
+		<br>The Color Code for the report is as follows:</br>
+
+<br><table>
+<tr>
+	<td>1.</td>
+	<td><p style="background-color:yellow;">Debug Issue (ie. Pricing not matching with Opera, room inventory differs 	from Opera)</td>
+</tr>
+<tr>
+	<td>2.</td>
+	<td><p style="background-color:aqua;">Configuration Issue related to rates, programs or restrictions (work with 		Distribution Team to resolve)</td>
+</tr>
+<tr>
+	<td>3.</td>
+	<td><p style="background-color:rgb(200, 200, 200);">User Error (ie. Record Locked by another user)</td>
+</tr>
+</table>
+
+	<br><b>Thank You,</b><br>Machine Name : {1}<br>Robot ID : {2}</br>
+	<br>IT - Operations Center<br>702.692.9800<br>** This is a Bot generated mail. Please do not reply. **</br>
+</body>
+</html>
